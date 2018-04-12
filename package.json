@@ -1,0 +1,16 @@
+{
+  "name": "altbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.3.0",
+    "discordjs-cmds": "^0.6.1"
+  }
+}
